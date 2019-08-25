@@ -2,8 +2,8 @@
 Using this Program We can Add Bass To the sound signals we want to by using the simple User Friendly Interface as provided.
 
 # Library Requirments
-Librosa
-Numpy
+Librosa , 
+Numpy , 
 Ipython.display
 
 # How to Run 
