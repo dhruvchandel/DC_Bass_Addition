@@ -8,3 +8,6 @@ Ipython.display
 
 # How to Run 
 Just open the terminal in the cloned folder and run "bass_script.py"  & we are all good to go.
+
+# Some Thoery and Stuff
+https://www.teachmeaudio.com/mixing/techniques/audio-spectrum/
